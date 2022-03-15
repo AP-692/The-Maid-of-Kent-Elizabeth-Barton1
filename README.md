@@ -3,9 +3,9 @@
 banner="/images/banners/20c.jpg">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
-<param ve-entity eid="Q375314" aliases="Aldington">
-<param ve-entity eid="Q736439" aliases="Romney Marsh">
-<param ve-entity eid="Q921173" aliases="Ashford">
+<param ve-entity eid="Q921173" aliases="Aldington">
+<param ve-entity eid="Q1506093" aliases="Romney Marsh">
+<param ve-entity eid="Q725261" aliases="Ashford">
   
-**Places:** Sandgate, Folkestone, Aldington, Ramsgate, Canterbury   
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/54/H._G._Wells%2C_c.1890.jpg" label="H.G. Wells" attribution="Library of the London School of Economics and Political Science, No restrictions, via Wikimedia Commons">
+**Places:** Canterbury, Aldington, Romney Marsh, Ashford  
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fc/Elizabeth_Barton_Maid_of_Kent.jpg" attribution="Unknown authorUnknown author, Public domain, via Wikimedia Commons">
