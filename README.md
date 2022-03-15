@@ -60,14 +60,14 @@ Barton posed a threat to Henry’s reign and the stability of the monarchy, Parl
 [^ref20]: “The History Press, When Henry VIII Met the Holy Maid of Kent,” Anne Petrie, accessed March 15, 2022, https://www.thehistorypress.co.uk/articles/when-henry-viii-met-the-holy-maid-of-kent/
 [^ref21]: Collins, A. H., p, 217.
 [^ref22]: “The History Press, When Henry VIII Met the Holy Maid of Kent."
-[^ref23]: “The History Press, When Henry VIII Met the Holy Maid of Kent."
-[^ref24]: “The History Press, When Henry VIII Met the Holy Maid of Kent."
+[^ref23]: ibid.
+[^ref24]: ibid.
 [^ref25]: Diane Watt., p,140.
 [^ref26]: “The History Press, When Henry VIII Met the Holy Maid of Kent."
 [^ref27]: Sharon L. Jansen, Dangerous Talk and Strange Behavior: Women and Popular Resistance to the Reforms of Henry VIII, (New York: St. Martin‟s Press, 1996), 41-55.
 [^ref28]: Sharon L. Jansen.
-[^ref29]: Sharon L. Jansen.
-[^ref30]: Sharon L. Jansen.
+[^ref29]: ibid.
+[^ref30]: ibid.
 [^ref31]: United Kingdom, Statutes of the Realm. Edited by A. Luders and others. 11 vols. London: HMSO 1810-28. http://heinonline.org/HOL/Welcome, accessed March 14, 2022.
 [^ref32]: G.R. Elton, “The Law of Treason in the Early Reformation,” The Historical Journal 11, no. 2 (1968): 214.
 [^ref33]: Sharon L. Jansen.
