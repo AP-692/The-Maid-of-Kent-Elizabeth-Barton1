@@ -58,7 +58,7 @@ Barton warned [Thomas Wolsey](https://en.wikipedia.org/wiki/Thomas_Wolsey) and [
 [^ref21]:Collins, A. H., p, 217.
 [^ref22]: “The History Press, When Henry VIII Met the Holy Maid of Kent."
 [^ref23]: “The History Press, When Henry VIII Met the Holy Maid of Kent."
-
+[^ref24]: “The History Press, When Henry VIII Met the Holy Maid of Kent."
 
 
 ***Bibliography***
