@@ -23,17 +23,17 @@ Cobbs did not know who to turn too, he knew he needed to seek advice, but from w
 [^ref2]: ibid. 
 [^ref3]: Cheney, Denton A. ‘The Holy Maid of Kent,’ Transaction of the Royal Historical Society, 18 (1904): 109.
 [^ref4]: ibid.
-[^ref5]: Parkin, F. W. “Cobb’s Hall, Aldington, and the Holy Maid of Kent.” Archaeologia Cantiana. 86 (1971): 15-34. 
-[^ref6]: Parkin, F. W. “Cobb’s Hall, Aldington, and the Holy Maid of Kent.” Archaeologia Cantiana. 86 (1971): 15-34. 
-[^ref7]: Collins, A. H. (1910). “The Holy Maid of Kent.” The Antiquary, 6, 6, (1910) 213-219. Retrieved from https://www.proquest.com/historical-periodicals/holy-maid-kent/docview/6702584/se-2?accountid=9869. 
+[^ref5]: Parkin, F. W. “Cobb’s Hall, Aldington, and the Holy Maid of Kent.” Archaeologia Cantiana. 86 (1971): 16. 
+[^ref6]: ibid., p, 15.
+[^ref7]: Collins, A. H. (1910). “The Holy Maid of Kent.” The Antiquary, 6, 6, (1910) 214. Retrieved from https://www.proquest.com/historical-periodicals/holy-maid-kent/docview/6702584/se-2?accountid=9869. 
 [^ref8]: Lambard, William. A Perambulation of Kent: Conteining the Description, Hystorie, and Customes of that Shire. (1576; reprint, London: Chatham 1826), 172, available from https://archive.org/details/perambulationofk00lambuoft (accessed March 14, 2022). Original spelling and punctuation are maintained in all primary source quotations used in this article.
-[^ref9]: Collins, A. H. (1910). “The Holy Maid of Kent.” The Antiquary, 6, 6, (1910) 213-219. Retrieved from https://www.proquest.com/historical-periodicals/holy-maid-kent/docview/6702584/se-2?accountid=9869. 
-[^ref10]: Collins, A. H. (1910). “The Holy Maid of Kent.” The Antiquary, 6, 6, (1910) 213-219. Retrieved from https://www.proquest.com/historical-periodicals/holy-maid-kent/docview/6702584/se-2?accountid=9869. 
-[^ref11]: Cheney, Denton A. ‘The Holy Maid of Kent,’ Transaction of the Royal Historical Society, 18 (1904): 107-29.
-[^ref12]: Lambard, William. A Perambulation of Kent: Conteining the Description, Hystorie, and Customes of that Shire. (1576; reprint, London: Chatham 1826), 172, available from https://archive.org/details/perambulationofk00lambuoft (accessed March 14, 2022). Original spelling and punctuation are maintained in all primary source quotations used in this article.
-[^ref13]: Collins, A. H. (1910). “The Holy Maid of Kent.” The Antiquary, 6, 6, (1910) 213-219. Retrieved from https://www.proquest.com/historical-periodicals/holy-maid-kent/docview/6702584/se-2?accountid=9869.
-[^ref14]:Diane Watt, “Reconstructing the Word: The Political Prophecies of Elizabeth Barton (1506-1534).” Renaissance Quarterly 50, no. 1 (1997): 140, https://doi.org/10.2307/3039331. 
-[^ref15]:Diane Watt, “Reconstructing the Word: The Political Prophecies of Elizabeth Barton (1506-1534).” Renaissance Quarterly 50, no. 1 (1997): 140, https://doi.org/10.2307/3039331. 
+[^ref9]: Collins, A. H.  
+[^ref10]: ibid.
+[^ref11]: Cheney, Denton A., p,109.
+[^ref12]: Lambard, William.
+[^ref13]: Collins, A. H., p,215.
+[^ref14]: Diane Watt, “Reconstructing the Word: The Political Prophecies of Elizabeth Barton (1506-1534).” Renaissance Quarterly 50, no. 1 (1997): 140, https://doi.org/10.2307/3039331. 
+[^ref15]: ibid.
 
 
 
