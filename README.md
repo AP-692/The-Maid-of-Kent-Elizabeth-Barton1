@@ -18,7 +18,8 @@ In the quiet village of Aldington near Ashford Kent, sits an interesting house a
 
 Cheney, Denton A. ‘The Holy Maid of Kent,’ Transaction of the Royal Historical Society, 18 (1904): 107-29.
 
-[^ref1]: Collins, A. H. (1910). “The Holy Maid of Kent.” The Antiquary, 6, 6, (1910) 213-219. Retrieved from https://www.proquest.com/historical-periodicals/holy-maid-kent/docview/6702584/se-2?accountid=9869. [^ref2]
+[^ref1]: Collins, A. H. (1910). “The Holy Maid of Kent.” The Antiquary, 6, 6, (1910) 213-219. Retrieved from https://www.proquest.com/historical-periodicals/holy-maid-kent/docview/6702584/se-2?accountid=9869. 
+[^ref2]: Collins, A. H. (1910). “The Holy Maid of Kent.” The Antiquary, 6, 6, (1910) 213-219. Retrieved from https://www.proquest.com/historical-periodicals/holy-maid-kent/docview/6702584/se-2?accountid=9869. 
 
 Elton, G.R. “The Law of Treason in the Early Reformation.” The Historical Journal 11, no. 2 (1968): 212-22. 
 
