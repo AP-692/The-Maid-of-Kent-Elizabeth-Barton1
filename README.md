@@ -32,9 +32,9 @@ Barton warned [Thomas Wolsey](https://en.wikipedia.org/wiki/Thomas_Wolsey) and [
 
 Barton lost her protection when [Thomas Wolsey](https://en.wikipedia.org/wiki/Thomas_Wolsey) died in 1530 and [Archbishop Warham](https://en.wikipedia.org/wiki/William_Warham) in 1532, leaving her with only [Sir Thomas More](https://en.wikipedia.org/wiki/Thomas_More) as protection and he was still a cautious supporter.[^ref25]  Her predictions started to allow doubt to enter the minds of her supporters and allowing rebellion to enter the hearts of others. [Anne Boleyn](https://en.wikipedia.org/wiki/Anne_Boleyn) welcomed the king to her bed and almost immediately pregnancy ensued, the king and Anne were secretly wed.[^ref26]  [Queen Catharine](https://en.wikipedia.org/wiki/Catherine_of_Aragon) and [Sir Thomas More](https://en.wikipedia.org/wiki/Thomas_More) were unaware and continued to used Barton’s prophecies against Henry.[^ref27]  After the king didn’t die as Barton had prophesised the king divorced Catharine and his marriage to Anne was made public when she was crowned queen on 1 June 1533.[^ref28] Barton refused to deny papal authority, despite new legislation declaring Henry to be the Supreme Head of the English church.[^ref29]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d9/Henry%27s_reconciliation_with_Anne_Boleyn_cph.3g08965.jpg" attribution="Isaac Cruikshank, Public domain, via Wikimedia Commons"> 
-Barton was accused of treason, and it was believed that she and her associates spread false prophecies concerning the king’s marriage. These prophecies were called by Parliament to be ‘lyes by them unlawfully and traiterously practysed devysed ymagyned and conspired, as well to the blasphemy of Almyghty God.’[^ref30] Parliament believed that Barton’s words concerning the end of Henry’s reign should be punishable by death, however they did not wish to make Barton a Catholic martyr, instead they attempted to discredit her reputation and make her a traitor.[^ref31] Sermons and interrogations were preached across England portraying Barton as a a fraud. Barton was attacked by opponents that claimed she was in communication with the devil, claiming that she was having an affair with her confessor Edward Bocking.[^ref32]
+Barton was accused of treason, and it was believed that she and her associates spread false prophecies concerning the king’s marriage. These prophecies were called by Parliament to be ‘lyes by them unlawfully and traiterously practysed devysed ymagyned and conspired, as well to the blasphemy of Almyghty God.’[^ref30] Parliament believed that Barton’s words concerning the end of Henry’s reign should be punishable by death, however they did not wish to make Barton a Catholic martyr, instead they attempted to discredit her reputation and make her a traitor.[^ref31] Sermons and interrogations were preached across England portraying Barton as a a fraud. Barton was attacked by opponents that claimed she was in communication with the devil, claiming that she was having an affair with her confessor [Edward Bocking](https://en.wikipedia.org/wiki/Edward_Bocking).[^ref32]
 
-
+Barton posed a threat to Henry’s reign and the stability of the monarchy, Parliament feared of a potential rebellion.[^ref33] For Barton this was a religious issue, so she placed papal authority above that of the kings. Due Barton’s commitment to the institution, the Reformation she sought to discredit could not be ignored. Barton held influence and almost 3000 people attended one of her miraculous experiences, she did not only have support of the lower society but had support from the wealthy and powerful, transcending social class boundaries.[^ref34] Barton’s life illustrates the chaotic and complicated nature of the Henrician Reformation. Barton was seen as a religious deviant that endangered Henry’s throne with the transgression of gender boundaries and public disapproval of King Henry’s Polices.[^ref35] It believed that Barton denied under interrogation her revelations and prophecies, however this did not stop the fidelity of many of her supporters.[^ref36]  Nevertheless, Henry sought out punishment against Barton and her followers, emphasising the fact that she had communicated with the devil and committed treason against him, after being found guilty she was publicly hung for treason and witchcraft on 20 April 1534. The public hanging was intended to be understood as a symbolic act, her body and the bodies of her supporters were left as a show that she was nothing but a venerable, broken and impure person.[^ref37]  The date of Barton’s execution holds significance as it was the same day that citizens were required to make the Oath of Succession, bringing the meaning for Barton’s corpse and those of her supporters to become visual statements of the government’s determination to silence those who criticize Henry VIII’s policies and reforms.[^ref38]
 
 
 [^ref1]: Parkin, F. W. “Cobb’s Hall, Aldington, and the Holy Maid of Kent.” Archaeologia Cantiana. 86 (1971): 15. 
@@ -69,16 +69,11 @@ Barton was accused of treason, and it was believed that she and her associates s
 [^ref30]: Sharon L. Jansen.
 [^ref31]: United Kingdom, Statutes of the Realm. Edited by A. Luders and others. 11 vols. London: HMSO 1810-28. http://heinonline.org/HOL/Welcome, accessed March 14, 2022.
 [^ref32]: G.R. Elton, “The Law of Treason in the Early Reformation,” The Historical Journal 11, no. 2 (1968): 214.
-
-
-
-
-
-
-
-
-
-
+[^ref33]: Sharon L. Jansen.
+[^ref34]: Sarah Farha, “Her Intollerable Arrogancy: Comparing the Martyrdoms of Anne Askew and Elizabeth Barton Under Henry VIII,” Western Illinois Historical Review, Vol. III, Spring 2011, (2011): 14.
+[^ref35]: Shagan, Popular Politics and the English Reformation (Cambridge: Cambridge University Press, 2003), 62. Peter Marshall discusses Barton in conjunction with the broader agenda to eliminate religious fraud (prophecy, miracles, and relics) that also discounted the monasteries during the period of the suppression. See “Forgeries and Miracles in the Reign of Henry VIII,” Past and Present 178 (2003): 39-73.
+[^ref36]: Sarah Farha., p, 18.
+[^ref38]: L.E. Whatmore, ed. 'The Sermon against the Holy Maid of Kent and her Adherents, delivered at Paul's Cross, November the 23rd, 1533, and at Canterbury, December the 7th." English Historical Review, 58 (1943): 474.
 
 
 
