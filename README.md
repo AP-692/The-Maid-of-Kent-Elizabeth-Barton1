@@ -1,7 +1,7 @@
 
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config title="The Maid of Kent: Elizabeth Barton" author="Amber Potter" layout="vtl" 
-banner="https://upload.wikimedia.org/wikipedia/commons/4/4d/Atlas_Van_der_Hagen-KW1049B11_014-CANTIUM_Vernacule_KENT.jpeg">
+banner="https://upload.wikimedia.org/wikipedia/commons/b/bd/Binsfeld%2C_witches.jpg">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q921173" aliases="Aldington">
