@@ -11,14 +11,14 @@ banner="https://upload.wikimedia.org/wikipedia/commons/4/4d/Atlas_Van_der_Hagen-
 **Places:** Canterbury, Aldington, Romney Marsh, Ashford  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1c/James_Neagle_-_Elizabeth_Barton%2C_Commonly_called_The_Holy_Maid_of_Kent%2C_Practicing_her_Impositions_-_B2014.26.21_-_Yale_Center_for_British_Art.jpg" attribution="UJames Neagle, CC0, via Wikimedia Commons">
 
-In the quiet village of Aldington near Ashford Kent, sits an interesting house and one that was on one occasion right in the forefront of English history.[^ref1] The Archiepiscopal estate in Aldington was one of the largest of twenty-five manors that the archbishop held in Kent. Cobb Hall was built for the high servant of the Archbishop of Canterbury <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d9/William_Warham.jpg" attribution="After Hans Holbein the Younger, Public domain, via Wikimedia Commons"> Thomas Cobb, he became the steward of the extensive Aldington estates. Thomas Cobb came from a good family from the Romney Marsh area and came to Aldington in the reign of Edward IV, where his son Thomas made a name for himself as a high servant to the Archbishop of Canterbury that had Cobbs Hall built for him <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/af/Cobbs_Hall_Aldington_Kent_Geograph-2117504-by-David-Anstiss.jpg" attribution="David Anstiss / Cobb's Hall"> .
+In the quiet village of Aldington near Ashford Kent, sits an interesting house and one that was on one occasion right in the forefront of English history.[^ref1] The Archiepiscopal estate in Aldington was one of the largest of twenty-five manors that the archbishop held in Kent.[^ref2] Cobb Hall was built for the high servant of the Archbishop of Canterbury <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d9/William_Warham.jpg" attribution="After Hans Holbein the Younger, Public domain, via Wikimedia Commons"> Thomas Cobb, he became the steward of the extensive Aldington estates. Thomas Cobb came from a good family from the Romney Marsh area and came to Aldington in the reign of Edward IV, where his son Thomas made a name for himself as a high servant to the Archbishop of Canterbury that had Cobbs Hall built for him <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/af/Cobbs_Hall_Aldington_Kent_Geograph-2117504-by-David-Anstiss.jpg" attribution="David Anstiss / Cobb's Hall"> .
 
 
 ***Bibliography***
 
 Cheney, Denton A. ‘The Holy Maid of Kent,’ Transaction of the Royal Historical Society, 18 (1904): 107-29.
 
-[^ref1]: Collins, A. H. (1910). “The Holy Maid of Kent.” The Antiquary, 6, 6, (1910) 213-219. Retrieved from https://www.proquest.com/historical-periodicals/holy-maid-kent/docview/6702584/se-2?accountid=9869. 
+[^ref1][^ref2]: Collins, A. H. (1910). “The Holy Maid of Kent.” The Antiquary, 6, 6, (1910) 213-219. Retrieved from https://www.proquest.com/historical-periodicals/holy-maid-kent/docview/6702584/se-2?accountid=9869. 
 
 Elton, G.R. “The Law of Treason in the Early Reformation.” The Historical Journal 11, no. 2 (1968): 212-22. 
 
