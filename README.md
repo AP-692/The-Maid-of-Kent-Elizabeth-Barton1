@@ -86,9 +86,6 @@ Barton was accused of treason, and it was believed that she and her associates s
 
 
 
-
-
-
 ***Bibliography***
 
 
