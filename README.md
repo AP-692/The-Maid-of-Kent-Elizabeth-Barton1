@@ -15,9 +15,7 @@ In the quiet village of Aldington near Ashford Kent, sits an interesting house a
 
 However it isn’t the house or its master that his article will be about, but a lowly servant called Elizabeth Barton born in Aldington in 1506.[^ref5]  Thomas Cobb employed Elizabeth Barton as a servant in the 1520’s.[^ref6]  Employed by the Cobbs at a young age and at the age of nineteen her health began to decline so much so that it was believed that she had been stricken with a mortal disease.[^ref7]  It was said that she had been in ‘grievous paine, in-so-much as a man woulde have thought that shee had suffered the pangs of death intselfe, until the disease descended and dell down into the bodie againe.’[^ref8]  However, it was not the disease that made friends and neighbours look upon her with wide eyes, it was the curios visions which she seemed to be able to see and the predictions she started to make during her illness.[^ref9]  People were astonished with Barton’s knowledge of the unseen world and future, she predicted her master’s son would die, and die he did, she could describe what had happened at the church service however she had not left the four walls of her room.[^ref10]  She shared with her neighbours and mistress the glories that she had seen of heaven and the agonies of hell. It wasn’t till after Barton reported of a vision, she had where she would visit the chapel of Our Lady of Court-of-Street then she would be healed.[^ref11]  William Lambardes states in his Perambulation of Kent that upon visiting the chapel Barton was revived ‘from the very point of death,’ and that her healing ‘should be rong for a miracle.’[^ref12]
 
-
-
-
+Cobbs did not know who to turn too, he knew he needed to seek advice, but from where? He turned to Richard Masters the parish priest who came to see Barton and hear some of her revelations for himself, Masters communicated of the prophetess Elizabeth Barton to his Chief Archbishop Warham.[^ref13]  Upon hearing the news Archbishop Warham sent an ecclesiastical commission led by Edward Bocking a monk form the Benedictine house of Christ Church, Canterbury to examine Barton.[^ref14]  She was questioned, and the commission found her orthodox on the points of faith. The commission accompanied Barton to the chapel of Our Lady in the village of Court-at-Street in 1526 it was here with the onlook of neighbours, friends, masters and mistresses and the commission that she was miraculously healed.[^ref15] 
 
 
 
@@ -33,8 +31,9 @@ However it isn’t the house or its master that his article will be about, but a
 [^ref10]: Collins, A. H. (1910). “The Holy Maid of Kent.” The Antiquary, 6, 6, (1910) 213-219. Retrieved from https://www.proquest.com/historical-periodicals/holy-maid-kent/docview/6702584/se-2?accountid=9869. 
 [^ref11]: Cheney, Denton A. ‘The Holy Maid of Kent,’ Transaction of the Royal Historical Society, 18 (1904): 107-29.
 [^ref12]: Lambard, William. A Perambulation of Kent: Conteining the Description, Hystorie, and Customes of that Shire. (1576; reprint, London: Chatham 1826), 172, available from https://archive.org/details/perambulationofk00lambuoft (accessed March 14, 2022). Original spelling and punctuation are maintained in all primary source quotations used in this article.
-
-
+[^ref13]: Collins, A. H. (1910). “The Holy Maid of Kent.” The Antiquary, 6, 6, (1910) 213-219. Retrieved from https://www.proquest.com/historical-periodicals/holy-maid-kent/docview/6702584/se-2?accountid=9869.
+[^ref14]:Diane Watt, “Reconstructing the Word: The Political Prophecies of Elizabeth Barton (1506-1534).” Renaissance Quarterly 50, no. 1 (1997): 140, https://doi.org/10.2307/3039331. 
+[^ref15]:Diane Watt, “Reconstructing the Word: The Political Prophecies of Elizabeth Barton (1506-1534).” Renaissance Quarterly 50, no. 1 (1997): 140, https://doi.org/10.2307/3039331. 
 
 
 
