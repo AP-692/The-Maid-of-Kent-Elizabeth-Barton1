@@ -10,6 +10,7 @@ banner="https://upload.wikimedia.org/wikipedia/commons/4/4d/Atlas_Van_der_Hagen-
  
 **Places:** Canterbury, Aldington, Romney Marsh, Ashford  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1c/James_Neagle_-_Elizabeth_Barton%2C_Commonly_called_The_Holy_Maid_of_Kent%2C_Practicing_her_Impositions_-_B2014.26.21_-_Yale_Center_for_British_Art.jpg" attribution="UJames Neagle, CC0, via Wikimedia Commons">
+
 In the quiet village of Aldington near Ashford Kent, sits an interesting house and one that was on one occasion right in the forefront of English history.[^1]  The Archiepiscopal estate in Aldington was one of the largest of twenty-five manors that the archbishop held in Kent.  Cobb Hall was built for the high servant of the Archbishop of Canterbury Thomas Cobb, he became the steward of the extensive Aldington estates.  Thomas Cobb came from a good family from the Romney Marsh area and came to Aldington in the reign of Edward IV, where his son Thomas made a name for himself as a high servant to the Archbishop of Canterbury that had Cobbs Hall built for him.
 
 
@@ -28,4 +29,3 @@ Shagan, Ethan. Popular Politics and the English Reformation. Cambridge: Cambridg
 Watt, Diane. “Reconstructing the Word: The Political Prophecies of Elizabeth Barton (1506-1534).” Renaissance Quarterly 50, no. 1 (1997): 136–63. https://doi.org/10.2307/3039331.
 United Kingdom. Statutes of the Realm. Edited by A. Luders and others. 11 vols. London: HMSO 1810-28. http://heinonline.org/HOL/Welcome. Accessed March 14, 2022.
 Whatmore, L.E., ed. “The Sermon against the Holy Maid of Kent and her Adherents, delivered at Paul's Cross, November the 23rd, 1533, and at Canterbury, December the 7th." English Historical Review. 58 (1943): 463-75
-![image](https://user-images.githubusercontent.com/98847981/158412663-64e7b69b-734c-46e6-b891-87b89a0bf479.png)
