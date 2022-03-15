@@ -1,5 +1,6 @@
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4d/Atlas_Van_der_Hagen-KW1049B11_014-CANTIUM_Vernacule_KENT.jpeg" attribution="Dirck Jansz van Santen, Public domain, via Wikimedia Commons">
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="The Maid of Kent" author="Amber Potter" layout="vtl" 
+<param ve-config title="The Maid of Kent: Elizabeth Barton" author="Amber Potter" layout="vtl" 
 banner="/images/banners/20c.jpg">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
