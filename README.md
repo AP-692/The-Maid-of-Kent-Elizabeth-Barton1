@@ -19,10 +19,10 @@ Cobbs did not know who to turn too, he knew he needed to seek advice, but from w
 
 
 
-[^ref1]: Parkin, F. W. “Cobb’s Hall, Aldington, and the Holy Maid of Kent.” Archaeologia Cantiana. 86 (1971): 15-34. 
-[^ref2]: Parkin, F. W. “Cobb’s Hall, Aldington, and the Holy Maid of Kent.” Archaeologia Cantiana. 86 (1971): 15-34. 
-[^ref3]: Cheney, Denton A. ‘The Holy Maid of Kent,’ Transaction of the Royal Historical Society, 18 (1904): 107-29.
-[^ref4]: Cheney, Denton A. ‘The Holy Maid of Kent,’ Transaction of the Royal Historical Society, 18 (1904): 107-29.
+[^ref1]: Parkin, F. W. “Cobb’s Hall, Aldington, and the Holy Maid of Kent.” Archaeologia Cantiana. 86 (1971): 15. 
+[^ref2]: ibid. 
+[^ref3]: Cheney, Denton A. ‘The Holy Maid of Kent,’ Transaction of the Royal Historical Society, 18 (1904): 109.
+[^ref4]: ibid.
 [^ref5]: Parkin, F. W. “Cobb’s Hall, Aldington, and the Holy Maid of Kent.” Archaeologia Cantiana. 86 (1971): 15-34. 
 [^ref6]: Parkin, F. W. “Cobb’s Hall, Aldington, and the Holy Maid of Kent.” Archaeologia Cantiana. 86 (1971): 15-34. 
 [^ref7]: Collins, A. H. (1910). “The Holy Maid of Kent.” The Antiquary, 6, 6, (1910) 213-219. Retrieved from https://www.proquest.com/historical-periodicals/holy-maid-kent/docview/6702584/se-2?accountid=9869. 
