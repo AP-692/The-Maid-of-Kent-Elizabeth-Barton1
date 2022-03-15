@@ -8,4 +8,4 @@ banner="/images/banners/20c.jpg">
 <param ve-entity eid="Q725261" aliases="Ashford">
   
 **Places:** Canterbury, Aldington, Romney Marsh, Ashford  
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fc/Elizabeth_Barton_Maid_of_Kent.jpg" attribution="Unknown authorUnknown author, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1c/James_Neagle_-_Elizabeth_Barton%2C_Commonly_called_The_Holy_Maid_of_Kent%2C_Practicing_her_Impositions_-_B2014.26.21_-_Yale_Center_for_British_Art.jpg" attribution="UJames Neagle, CC0, via Wikimedia Commons">
